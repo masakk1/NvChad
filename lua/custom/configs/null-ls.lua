@@ -18,6 +18,9 @@ local sources = {
   -- python 
   b.formatting.black, -- formatting
   b.formatting.ruff, -- linter
+
+  -- java
+  b.formatting.google_java_format,
 }
 
 null_ls.setup {

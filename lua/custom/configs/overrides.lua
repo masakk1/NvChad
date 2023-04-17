@@ -7,6 +7,9 @@ M.treesitter = {
     "lua",
     "python",
 
+    -- java (basically minecraft)
+    "java",
+
     -- web dev
     "html",
     "css",
@@ -37,6 +40,10 @@ M.mason = {
     "pyright",
     "ruff",
     "black",
+
+    -- java (minecraft modding basically)
+    "jdtls",
+    "java-debug-adapter",
 
     -- web dev stuff
     "css-lsp",
