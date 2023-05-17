@@ -39,6 +39,14 @@ local plugins = {
   },
 
   -- Install a plugin
+
+  {
+    "Exafunction/codeium.vim",
+    lazy = false,
+    config = function ()
+    end
+  },
+
   {
     "max397574/better-escape.nvim",
     event = "InsertEnter",
