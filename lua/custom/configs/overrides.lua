@@ -41,20 +41,12 @@ M.mason = {
     "ruff",
     "black",
 
-    -- java (minecraft modding basically)
-    "jdtls",
-    "java-debug-adapter",
-
     -- web dev stuff
     "css-lsp",
     "html-lsp",
     "typescript-language-server",
     "deno",
     "prettier",
-
-    -- c/cpp stuff
-    "clangd",
-    "clang-format",
   },
 }
 
